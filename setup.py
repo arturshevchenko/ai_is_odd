@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="ai_is_odd",
-    version="0.1.1",
+    version="0.1.2",
     license='MIT',
     description="A super AI-powered library to determine if number is odd or odd with power of AI",
     author="Artur Shevchenko",
